@@ -112,7 +112,7 @@ Error: No SOL token account found in wallet:
 
 ## Связь
 
-[![](https://img.icons8.com/?size=50&id=lUktdBVdL4Kb&format=png)](https://t.me/wizard_studios)
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOLsGzivJyV6CDxz6hpPWTfXkzyOPgUPITA&s)](https://t.me/wizard_studios)
 
 - Для индивидуальных функций или поддержки пишите в TG.
 
